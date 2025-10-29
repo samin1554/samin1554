@@ -1,6 +1,10 @@
 ## Hi there 👋
 
 <h1 align="center">👋 Hey there, I'm Sam</h1>
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="150"/>
+</p>
+
 
 <p align="center">
   <a href="https://github.com/samin1554">
