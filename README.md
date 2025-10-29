@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<h1 align="center">👋 Hey there, I'm Samin</h1>
+<h1 align="center">👋 Hey there, I'm Sam</h1>
 
 <p align="center">
   <a href="https://github.com/samin1554">
