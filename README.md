@@ -1,10 +1,8 @@
-## Hi there 👋
-
 <h1 align="center">👋 Hey there, I'm Sam</h1>
-<p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="150"/>
-</p>
 
+<p align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="130"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/samin1554">
@@ -23,16 +21,55 @@
 
 ---
 
-### 🧩 Tech Stack
+## 🧰 Tech Stack Overview
 
-**Frontend:**  
-React • Vite • JavaScript (ES6+) • HTML • CSS • Tailwind  
+Here’s a quick look at the technologies I’ve been using across my repositories:
+
+| Repository | Main Languages | Likely Stack | Notes |
+|-------------|----------------|---------------|-------|
+| **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)** | TypeScript (50.7%), Java (40.7%), CSS, HTML | TypeScript Frontend + Java Backend | Full-stack app with frontend (React/Angular) and Java (Spring Boot) backend. |
+| **[Habbit-tracking-backendFeature](https://github.com/samin1554/Habbit-tracking-backendFeature)** | Java (100%) | Java Backend (Spring Boot / Jakarta EE) | Backend service only, no frontend components. |
+| **[chef-claude](https://github.com/samin1554/chef-claude)** | JavaScript (65.9%), CSS (29.8%), HTML (4.3%) | Frontend Web App | Likely vanilla JS or React-based web UI. |
+| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)** | TypeScript (75%), CSS (20.8%), Java (3.2%) | TypeScript Frontend + Light Java Backend | Web UI for sentiment analysis with a small Java component. |
+| **[Fitness-App](https://github.com/samin1554/Fitness-App)** | Java (74.4%), JavaScript (22.3%), CSS, HTML | Full Stack (Spring Boot + React) | Confirmed full stack fitness tracking app. |
+| **[tic-tac-toe](https://github.com/samin1554/tic-tac-toe)** | JavaScript (62.8%), CSS (32.5%), HTML (4.7%) | Frontend Web Game | Built with JavaScript, styled with CSS. |
+| **[Capstone-2-React](https://github.com/samin1554/Capstone-2-React)** | JavaScript (55%), CSS (32%), HTML (13%) | React Frontend | Core React project with standard web stack. |
+| **[Tenzies-](https://github.com/samin1554/Tenzies-)** | JavaScript (56.2%), CSS (34.7%), HTML (9.1%) | Frontend Game (React likely) | Simple game built with React/JS. |
+| **[Medical-Insurance-Data-Analysis-ML-mini-project-](https://github.com/samin1554/Medical-Insurance-Data-Analysis-ML-mini-project-)** | Jupyter Notebook (100%) | Python ML / Data Science | Focused on data analysis and prediction (pandas, sklearn, matplotlib). |
+
+---
+
+### 🔧 Aggregated Tech Stack
 
 **Backend:**  
-Spring Boot • Java • Django • Python • REST APIs  
+☕ Java (Spring Boot, REST APIs)  
 
-**Database & Tools:**  
-PostgreSQL • Supabase • DBeaver • Git • GitHub Actions  
+**Frontend:**  
+⚛️ React / TypeScript / JavaScript  
+
+**Styling:**  
+🎨 CSS / HTML  
+
+**Data Science:**  
+🐍 Python (Jupyter, pandas, scikit-learn, matplotlib)
+
+**Other Tools & Interests:**  
+🧩 API Integration • ML/AI Models • Full-Stack Architecture • Modern Dev Workflows  
+
+---
+
+### 💻 Visual Tech Stack Badges
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+</p>
 
 ---
 
@@ -76,13 +113,3 @@ PostgreSQL • Supabase • DBeaver • Git • GitHub Actions
   <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
 </p>
 
-
-
-
-## 🕹️ My Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg">
-</picture>
