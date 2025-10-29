@@ -34,8 +34,8 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 | **[Fitness-App](https://github.com/samin1554/Fitness-App)** | Java (74.4%), JavaScript (22.3%), CSS, HTML | Full Stack (Spring Boot + React) | Confirmed full stack fitness tracking app. |
 | **[tic-tac-toe](https://github.com/samin1554/tic-tac-toe)** | JavaScript (62.8%), CSS (32.5%), HTML (4.7%) | Frontend Web Game | Built with JavaScript, styled with CSS. |
 | **[Capstone-2-React](https://github.com/samin1554/Capstone-2-React)** | JavaScript (55%), CSS (32%), HTML (13%) | React Frontend | Core React project with standard web stack. |
-| **[Tenzies-](https://github.com/samin1554/Tenzies-)** | JavaScript (56.2%), CSS (34.7%), HTML (9.1%) | Frontend Game (React likely) | Simple game built with React/JS. |
-| **[Medical-Insurance-Data-Analysis-ML-mini-project-](https://github.com/samin1554/Medical-Insurance-Data-Analysis-ML-mini-project-)** | Jupyter Notebook (100%) | Python ML / Data Science | Focused on data analysis and prediction (pandas, sklearn, matplotlib). |
+| **[Tenzies-](https://github.com/samin1554/Tenzies-)** | JavaScript (56.2%), CSS (34.7%), HTML (9.1%) | Frontend Game  | Simple game built with React/JS. |
+| **[Medical-Insurance-Data-Analysis-ML-mini-project-](https://github.com/samin1554/Medical-Insurance-Data-Analysis-ML-mini-project-)** | ML Regression Analysis | Python ML / Data Science | Focused on data analysis and prediction (pandas, sklearn, matplotlib). |
 
 ---
 
