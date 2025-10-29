@@ -27,10 +27,10 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 
 | Repository | Main Languages | Likely Stack | Notes |
 |-------------|----------------|---------------|-------|
-| **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)** | TypeScript (50.7%), Java (40.7%), CSS, HTML | TypeScript Frontend + Java Backend | Full-stack app with frontend (React/Angular) and Java (Spring Boot) backend. |
+| **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)** | TypeScript (50.7%), Java (40.7%), CSS, HTML | TypeScript Frontend + Java Backend (Spring Boot) | Full-stack app with frontend (React/Angular) and Java backend. |
 | **[Habbit-tracking-backendFeature](https://github.com/samin1554/Habbit-tracking-backendFeature)** | Java (100%) | Java Backend (Spring Boot / Jakarta EE) | Backend service only, no frontend components. |
 | **[chef-claude](https://github.com/samin1554/chef-claude)** | JavaScript (65.9%), CSS (29.8%), HTML (4.3%) | Frontend Web App | Likely vanilla JS or React-based web UI. |
-| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)** | TypeScript (75%), CSS (20.8%), Java (3.2%) | TypeScript Frontend + Light Java Backend | Web UI for sentiment analysis with a small Java component. |
+| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)** | TypeScript (75%), CSS (20.8%), Java (3.2%) | TypeScript Frontend + Flask Backend | Web UI for sentiment analysis with a Python ML model served via Flask. |
 | **[Fitness-App](https://github.com/samin1554/Fitness-App)** | Java (74.4%), JavaScript (22.3%), CSS, HTML | Full Stack (Spring Boot + React) | Confirmed full stack fitness tracking app. |
 | **[tic-tac-toe](https://github.com/samin1554/tic-tac-toe)** | JavaScript (62.8%), CSS (32.5%), HTML (4.7%) | Frontend Web Game | Built with JavaScript, styled with CSS. |
 | **[Capstone-2-React](https://github.com/samin1554/Capstone-2-React)** | JavaScript (55%), CSS (32%), HTML (13%) | React Frontend | Core React project with standard web stack. |
@@ -41,20 +41,24 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 
 ### 🔧 Aggregated Tech Stack
 
-**Backend:**  
+**Backend Languages & Frameworks:**  
 ☕ Java (Spring Boot, REST APIs)  
+🐍 Python (Flask, Django, ML/AI Models)  
 
 **Frontend:**  
 ⚛️ React / TypeScript / JavaScript  
 
-**Styling:**  
+**Databases:**  
+🗄️ SQL / PostgreSQL / MongoDB  
+
+**Styling & UI:**  
 🎨 CSS / HTML  
 
-**Data Science:**  
-🐍 Python (Jupyter, pandas, scikit-learn, matplotlib)
+**Data Science & ML:**  
+🐍 Python (Jupyter, pandas, scikit-learn, matplotlib)  
 
 **Other Tools & Interests:**  
-🧩 API Integration • ML/AI Models • Full-Stack Architecture • Modern Dev Workflows  
+🧩 API Integration • Full-Stack Architecture • Modern Dev Workflows • ML/AI Pipelines  
 
 ---
 
@@ -63,13 +67,19 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
+
 
 ---
 
