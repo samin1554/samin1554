@@ -15,7 +15,7 @@
 ### 🧠 About Me
 - 🎓 Sophomore majoring in **Computer Science / Engineering**
 - 💻 Passionate about **Full-Stack Development** & **AI / Machine Learning**
-- 🌱 Currently working on projects using **React**, **Spring Boot**, and **PostgreSQL**
+- 🌱 Currently working on projects that appeal to my interest and self improvement
 - 🚀 Building projects that **connect frontend + backend** seamlessly
 - ⚡ Fun fact: I learn best by building and breaking things 😄
 
