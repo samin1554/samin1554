@@ -86,15 +86,26 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&count_private=true&include_all_commits=true&theme=radical" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=compact&theme=radical" height="170" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=3600" 
+    height="170" 
+    alt="GitHub stats"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=compact&theme=radical&cache_seconds=3600" 
+    height="170" 
+    alt="Top languages"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=samin1554&theme=radical" height="180" />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=samin1554&theme=radical" 
+    height="180" 
+    alt="GitHub streak stats"
+  />
 </p>
 
----
 
 ### 🕹️ My Contribution Graph
 
