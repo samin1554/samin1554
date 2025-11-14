@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hey there, I'm Sam</h1>
+<h1 align="center"> Hey there, I'm Sam</h1>
 
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="130"/>
@@ -12,16 +12,16 @@
 
 ---
 
-### 🧠 About Me
-- 🎓 Sophomore majoring in **Computer Science / Engineering**
-- 💻 Passionate about **Full-Stack Development** & **AI / Machine Learning**
-- 🌱 Currently working on projects that appeal to my interest and self improvement
-- 🚀 Building projects that **connect frontend + backend** seamlessly
-- ⚡ Fun fact: I learn best by building and breaking things 😄
+### About Me
+-  Sophomore majoring in **Computer Science / Engineering**
+-  Passionate about **Full-Stack Development** & **AI / Machine Learning**
+-  Currently working on projects that appeal to my interest and self improvement
+-  Building projects that **connect frontend + backend** seamlessly
+-  Fun fact: I learn best by building and breaking things 😄
 
 ---
 
-## 🧰 Tech Stack Overview
+##  Tech Stack Overview
 
 Here’s a quick look at the technologies I’ve been using across my repositories:
 
@@ -42,23 +42,23 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 ### 🔧 Aggregated Tech Stack
 
 **Backend Languages & Frameworks:**  
-☕ Java (Spring Boot, REST APIs)  
-🐍 Python (Flask, Django, ML/AI Models)  
+Java (Spring Boot, REST APIs)  
+ Python (Flask, Django, ML/AI Models)  
 
 **Frontend:**  
-⚛️ React / TypeScript / JavaScript  
+ React / TypeScript / JavaScript  
 
 **Databases:**  
-🗄️ SQL / PostgreSQL / MongoDB  
+ SQL / PostgreSQL / MongoDB  
 
 **Styling & UI:**  
-🎨 CSS / HTML  
+ CSS / HTML  
 
 **Data Science & ML:**  
-🐍 Python (Jupyter, pandas, scikit-learn, matplotlib)  
+ Python (Jupyter, pandas, scikit-learn, matplotlib)  
 
 **Other Tools & Interests:**  
-🧩 API Integration • Full-Stack Architecture • Modern Dev Workflows • ML/AI Pipelines  
+ API Integration • Full-Stack Architecture • Modern Dev Workflows • ML/AI Pipelines  
 
 ---
 
@@ -107,7 +107,7 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 </p>
 
 
-### 🕹️ My Contribution Graph
+###  My Contribution Graph
 
 <p align="center">
   <picture>
@@ -117,7 +117,7 @@ Here’s a quick look at the technologies I’ve been using across my repositori
   </picture>
 </p>
 
-*(This game auto-updates based on my latest commits! 🟡)*
+*(This game auto-updates based on my latest commits)*
 
 ---
 
