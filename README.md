@@ -1,9 +1,7 @@
 <h1 align="center"> Hey there, I'm Sam</h1>
-
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="130"/>
 </p>
-
 <p align="center">
   <a href="https://github.com/samin1554">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F781&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Explorer;Lifelong+Learner+📘" alt="Typing Animation" />
@@ -13,6 +11,7 @@
 ---
 
 ### About Me
+
 -  Sophomore majoring in **Computer Science / Engineering**
 -  Passionate about **Full-Stack Development** & **AI / Machine Learning**
 -  Currently working on projects that appeal to my interest and self improvement
@@ -21,21 +20,54 @@
 
 ---
 
+## 🚀 Featured Project
+
+<table>
+<tr>
+<td width="100%">
+
+### [OpenBook — Open-Source NotebookLM Clone](https://github.com/samin1554/OpenBook)
+
+An AI-powered document analysis platform inspired by Google's NotebookLM. Upload documents, chat with them using RAG, and generate podcasts, mind maps, and slide decks — all from your content.
+
+**Built over 8 weeks** as a full-scale microservices system with 6 services, async event processing, AI pipelines, and Stripe payment integration.
+
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+</p>
+
+**Key features:** RAG Chat · Podcast Generation (67 TTS voices) · Mind Maps · Slide Decks · Google OAuth · Stripe Subscriptions
+
+</td>
+</tr>
+</table>
+
+---
+
 ##  Tech Stack Overview
 
-Here’s a quick look at the technologies I’ve been using across my repositories:
+Here's a quick look at the technologies I've been using across my repositories:
 
 | Repository | Main Languages | Likely Stack | Notes |
 |-------------|----------------|---------------|-------|
+| **[OpenBook](https://github.com/samin1554/OpenBook)** | Java, Python, TypeScript | Spring Boot + FastAPI + React | Full-stack AI platform — microservices, RAG, TTS, Stripe billing. |
 | **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)** | TypeScript (50.7%), Java (40.7%), CSS, HTML | TypeScript Frontend + Java Backend (Spring Boot) | Full-stack app with frontend (React/Angular) and Java backend. |
 | **[Habbit-tracking-backendFeature](https://github.com/samin1554/Habbit-tracking-backendFeature)** | Java (100%) | Java Backend (Spring Boot / Jakarta EE) | Backend service only, no frontend components. |
 | **[chef-claude](https://github.com/samin1554/chef-claude)** | JavaScript (65.9%), CSS (29.8%), HTML (4.3%) | Frontend Web App | Likely vanilla JS or React-based web UI. |
-| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)** | TypeScript (75%), CSS (20.8%), Java (3.2%) , Python (1.8%)| TypeScript Frontend + Flask Backend + SpringBoot Backed| Web UI for sentiment analysis with a Python ML model served via Flask and Spring Boot in a microservice architechture. |
+| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)** | TypeScript (75%), CSS (20.8%), Java (3.2%), Python (1.8%) | TypeScript Frontend + Flask Backend + Spring Boot Backend | Web UI for sentiment analysis with a Python ML model served via Flask and Spring Boot in a microservice architecture. |
 | **[Fitness-App](https://github.com/samin1554/Fitness-App)** | Java (74.4%), JavaScript (22.3%), CSS, HTML | Full Stack (Spring Boot + React) | Confirmed full stack fitness tracking app. |
 | **[tic-tac-toe](https://github.com/samin1554/tic-tac-toe)** | JavaScript (62.8%), CSS (32.5%), HTML (4.7%) | Frontend Web Game | Built with JavaScript, styled with CSS. |
 | **[Capstone-2-React](https://github.com/samin1554/Capstone-2-React)** | JavaScript (55%), CSS (32%), HTML (13%) | React Frontend | Core React project with standard web stack. |
 | **[Tenzies-](https://github.com/samin1554/Tenzies-)** | JavaScript (56.2%), CSS (34.7%), HTML (9.1%) | Frontend Game  | Simple game built with React/JS. |
-
 
 ---
 
@@ -43,22 +75,28 @@ Here’s a quick look at the technologies I’ve been using across my repositori
 
 **Backend Languages & Frameworks:**  
 Java (Spring Boot, REST APIs)  
- Python (Flask, Django, ML/AI Models)  
+Python (FastAPI, Flask, Django, ML/AI Models)  
 
 **Frontend:**  
- React / TypeScript / JavaScript  
+React / TypeScript / JavaScript  
 
-**Databases:**  
- SQL / PostgreSQL / MongoDB  
+**AI & ML:**  
+PyTorch · Sentence-Transformers · RAG Pipelines · Groq API · pgvector  
+
+**Databases & Messaging:**  
+PostgreSQL / MongoDB / Redis / RabbitMQ  
+
+**Infrastructure & DevOps:**  
+Docker / Docker Compose / MinIO (S3) / Nginx  
+
+**Payments & Auth:**  
+Stripe · Google OAuth 2.0 · JWT  
 
 **Styling & UI:**  
- CSS / HTML  
-
-**Data Science & ML:**  
- Python (Jupyter, pandas, scikit-learn, matplotlib)  
+Tailwind CSS / Radix UI / CSS / HTML  
 
 **Other Tools & Interests:**  
- API Integration • Full-Stack Architecture • Modern Dev Workflows • ML/AI Pipelines  
+API Integration • Microservices Architecture • Event-Driven Systems • Modern Dev Workflows • ML/AI Pipelines  
 
 ---
 
@@ -68,18 +106,23 @@ Java (Spring Boot, REST APIs)
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
-
 
 ---
 
@@ -105,7 +148,6 @@ Java (Spring Boot, REST APIs)
     alt="GitHub streak stats"
   />
 </p>
-
 
 ###  My Contribution Graph
 
@@ -133,4 +175,3 @@ Java (Spring Boot, REST APIs)
 <p align="center">
   <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
 </p>
-
