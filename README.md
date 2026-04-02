@@ -1,11 +1,61 @@
-<h1 align="center"> Hey there, I'm Sam</h1>
+# Sam's GitHub Profile README
+# Save this as README.md in your samin1554/samin1554 repo
+
+<!-- INK HEADER — replaces old heading + GIF + typing SVG -->
 <p align="center">
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExazZtcW1tcHJiNm1sNHA5emgyaWhnY3duZDhxY3ZyZ3RxZWVhMjhlbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/o2TqK6vEzhp96/giphy.gif" width="130"/>
-</p>
-<p align="center">
-  <a href="https://github.com/samin1554">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F781&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Explorer;Lifelong+Learner+📘" alt="Typing Animation" />
-  </a>
+<svg width="800" height="200" viewBox="0 0 800 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .name { font-size: 42px; font-weight: 700; fill: #0d1117; letter-spacing: -1px; }
+      .role { font-size: 13px; fill: #57606a; letter-spacing: 0.5px; }
+      .stat-num { font-size: 20px; font-weight: 700; fill: #0d1117; }
+      .stat-lbl { font-size: 10px; fill: #8b949e; letter-spacing: 1px; }
+      .ascii { font-size: 10.5px; fill: #0d1117; }
+      .dim { stroke: #d0d7de; stroke-width: 0.5; }
+      .muted { font-size: 11px; fill: #8b949e; }
+      .bar-bg { fill: #f6f8fa; stroke: #d0d7de; stroke-width: 0.5; }
+      .bar-fill { fill: #0d1117; }
+    </style>
+    <clipPath id="c1"><rect x="0" y="0" width="0" height="6" rx="2"><animate attributeName="width" from="0" to="158" dur="1.2s" begin="0.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="0" y="0" width="0" height="6" rx="2"><animate attributeName="width" from="0" to="148" dur="1.2s" begin="0.5s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="0" y="0" width="0" height="6" rx="2"><animate attributeName="width" from="0" to="135" dur="1.2s" begin="0.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="0" y="0" width="0" height="6" rx="2"><animate attributeName="width" from="0" to="143" dur="1.2s" begin="0.9s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <rect width="800" height="200" fill="#ffffff" rx="6"/>
+  <rect width="799" height="199" x="0.5" y="0.5" fill="none" stroke="#d0d7de" stroke-width="0.5" rx="6"/>
+  <text class="mono ascii" x="32" y="52">╔══════╗</text>
+  <text class="mono ascii" x="32" y="67">║  S   ║</text>
+  <text class="mono ascii" x="32" y="82">║ ░▓░  ║</text>
+  <text class="mono ascii" x="32" y="97">║ ░░░  ║</text>
+  <text class="mono ascii" x="32" y="112">╚══════╝</text>
+  <text class="mono ascii" x="32" y="130">[ samin1554 ]</text>
+  <line class="dim" x1="148" y1="28" x2="148" y2="172"/>
+  <text class="mono name" x="172" y="72">Sam</text>
+  <text class="mono role" x="174" y="93">CS sophomore · full-stack · ML explorer</text>
+  <line class="dim" x1="172" y1="106" x2="500" y2="106"/>
+  <text class="mono stat-num" x="174" y="130">12</text>
+  <text class="mono stat-lbl" x="174" y="145">REPOS</text>
+  <text class="mono stat-num" x="254" y="130">2</text>
+  <text class="mono stat-lbl" x="254" y="145">LIVE PRODUCTS</text>
+  <text class="mono stat-num" x="374" y="130">6+</text>
+  <text class="mono stat-lbl" x="374" y="145">LANGUAGES</text>
+  <line class="dim" x1="510" y1="28" x2="510" y2="172"/>
+  <text class="mono muted" x="530" y="42">// stack depth</text>
+  <text class="mono stat-lbl" x="530" y="62">TYPESCRIPT</text>
+  <rect class="bar-bg" x="530" y="66" width="180" height="6" rx="2"/>
+  <rect class="bar-fill" x="530" y="66" width="158" height="6" rx="2" clip-path="url(#c1)"/>
+  <text class="mono stat-lbl" x="530" y="87">PYTHON</text>
+  <rect class="bar-bg" x="530" y="91" width="180" height="6" rx="2"/>
+  <rect class="bar-fill" x="530" y="91" width="148" height="6" rx="2" clip-path="url(#c2)"/>
+  <text class="mono stat-lbl" x="530" y="112">JAVA</text>
+  <rect class="bar-bg" x="530" y="116" width="180" height="6" rx="2"/>
+  <rect class="bar-fill" x="530" y="116" width="135" height="6" rx="2" clip-path="url(#c3)"/>
+  <text class="mono stat-lbl" x="530" y="137">REACT / NEXT.JS</text>
+  <rect class="bar-bg" x="530" y="141" width="180" height="6" rx="2"/>
+  <rect class="bar-fill" x="530" y="141" width="143" height="6" rx="2" clip-path="url(#c4)"/>
+  <text class="mono muted" x="530" y="170">building @ techgenie.cc</text>
+</svg>
 </p>
 
 ---
@@ -17,6 +67,41 @@
 -  Currently working on projects that appeal to my interest and self improvement
 -  Building projects that **connect frontend + backend** seamlessly
 -  Fun fact: I learn best by building and breaking things 😄
+
+<!-- VISITOR PASSPORT STAMPS -->
+<p align="center">
+<svg width="520" height="80" viewBox="0 0 520 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .sm { font-family: 'JetBrains Mono', 'Courier New', monospace; }
+      .sv { font-size: 18px; font-weight: 700; fill: #0d1117; }
+      .sl { font-size: 9px; fill: #8b949e; letter-spacing: 1.2px; }
+      .sb { fill: none; stroke: #0d1117; stroke-width: 1.5; }
+      .sd { fill: none; stroke: #d0d7de; stroke-width: 0.5; stroke-dasharray: 3,2; }
+    </style>
+  </defs>
+  <rect class="sb" x="4" y="4" width="114" height="72" rx="5"/>
+  <rect class="sd" x="9" y="9" width="104" height="62" rx="3"/>
+  <text class="sm sv" x="61" y="44" text-anchor="middle">👁</text>
+  <text class="sm sl" x="61" y="62" text-anchor="middle">VISITORS</text>
+  <rect class="sb" x="135" y="4" width="114" height="72" rx="5"/>
+  <rect class="sd" x="140" y="9" width="104" height="62" rx="3"/>
+  <text class="sm sv" x="192" y="44" text-anchor="middle">12</text>
+  <text class="sm sl" x="192" y="62" text-anchor="middle">REPOS</text>
+  <rect class="sb" x="266" y="4" width="114" height="72" rx="5"/>
+  <rect class="sd" x="271" y="9" width="104" height="62" rx="3"/>
+  <text class="sm sv" x="323" y="44" text-anchor="middle">2</text>
+  <text class="sm sl" x="323" y="62" text-anchor="middle">LIVE PRODUCTS</text>
+  <rect class="sb" x="397" y="4" width="119" height="72" rx="5"/>
+  <rect class="sd" x="402" y="9" width="109" height="62" rx="3"/>
+  <text class="sm sv" x="456" y="40" text-anchor="middle" font-size="14">SIGN THE</text>
+  <text class="sm sv" x="456" y="56" text-anchor="middle" font-size="14">BOOK ↗</text>
+</svg>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=samin1554&style=flat-square&color=grey&label=profile+views" alt="profile views"/>
+</p>
 
 ---
 
@@ -191,6 +276,20 @@ API Integration • Microservices Architecture • Event-Driven Systems • Mode
 
 ---
 
+### 📬 Guestbook
+
+*Passing through? Leave a message → [sign the guestbook ↗](../../issues/new?labels=guestbook&template=guestbook.md&title=Guestbook+entry+from+%40YOUR_HANDLE)*
+
+<!-- GUESTBOOK_START -->
+```
+handle               message                                              date
+──────────────────────────────────────────────────────────────────────────────────
+(entries appear here automatically after the first visitor signs)
+```
+<!-- GUESTBOOK_END -->
+
+---
+
 ### 🤝 Connect with Me
 
 <p align="center">
@@ -202,5 +301,6 @@ API Integration • Microservices Architecture • Event-Driven Systems • Mode
 
 <p align="center">
   <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
+</p>
 </p>
 
