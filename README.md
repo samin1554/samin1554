@@ -26,6 +26,34 @@
 <tr>
 <td width="100%">
  
+### [Life OS — AI Life Coach & Executive Function System](https://life-os-eta-hazel.vercel.app)
+ 
+A multi-agent AI system that acts as your personal life coach. 12+ specialist agents learn your behavioral patterns and actively handle tasks you keep avoiding — drafting emails, building realistic daily plans based on your actual pace, generating documents, and collapsing overwhelming days into exactly 3 things.
+
+**Live at [life-os-eta-hazel.vercel.app](https://life-os-eta-hazel.vercel.app)** — deployed on Railway + Vercel with Clerk auth, multi-provider LLM support (BYOK), Gmail OAuth integration, and semantic memory.
+
+<p>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
+</p>
+
+**Key features:** Multi-Agent AI Coach · Gmail Integration · Task & Goal Management · Daily Check-ins · Pattern Learning · File Generation (DOCX, XLSX, PDF) · Chaos Triage · Weekly Reviews · Semantic Memory · 9 LLM Providers (BYOK)
+
+</td>
+</tr>
+<tr>
+<td width="100%">
+ 
 ### [TechGenie — AI-Powered Career Toolkit for Developers](https://techgenie.cc)
  
 A newspaper-themed platform that helps developers land jobs faster. Analyze your GitHub profile across 7 dimensions, generate ATS-optimized resumes, craft tailored cover letters, identify skill gaps, optimize your LinkedIn, and browse real job listings — all powered by AI.
@@ -85,6 +113,7 @@ Here's a quick look at the technologies I've been using across my repositories:
  
 | Repository | Main Languages | Likely Stack | Notes |
 |-------------|----------------|---------------|-------|
+| **[Life-OS](https://github.com/samin1554/Life-os)** | TypeScript, Python | Next.js + FastAPI + PostgreSQL + Redis + ChromaDB | AI life coach — multi-agent system, Gmail integration, semantic memory. Live at [life-os-eta-hazel.vercel.app](https://life-os-eta-hazel.vercel.app). |
 | **[TechGenie](https://github.com/samin1554/TechGenie)** | TypeScript, Python | Next.js + FastAPI + PostgreSQL | AI career toolkit — GitHub analysis, resume builder, job board. Live at [techgenie.cc](https://techgenie.cc). |
 | **[OpenBook](https://github.com/samin1554/OpenBook)** | Java, Python, TypeScript | Spring Boot + FastAPI + React | Full-stack AI platform — microservices, RAG, TTS, Stripe billing. |
 | **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)** | TypeScript (50.7%), Java (40.7%), CSS, HTML | TypeScript Frontend + Java Backend (Spring Boot) | Full-stack app with frontend (React/Angular) and Java backend. |
@@ -108,22 +137,22 @@ Python (FastAPI, Flask, Django, ML/AI Models)
 React / Next.js / TypeScript / JavaScript
  
 **AI & ML:**
-PyTorch · Sentence-Transformers · RAG Pipelines · Groq API · pgvector
+PyTorch · Sentence-Transformers · RAG Pipelines · LangGraph · ChromaDB · Groq API · pgvector
  
 **Databases & Messaging:**
 PostgreSQL / MongoDB / Redis / RabbitMQ
  
 **Infrastructure & DevOps:**
-Docker / Docker Compose / MinIO (S3) / Nginx / Railway / Vercel
+Docker / Docker Compose / MinIO (S3) / Cloudflare R2 / Nginx / Railway / Vercel
  
 **Payments & Auth:**
-Stripe · Google OAuth 2.0 · GitHub OAuth · JWT
+Stripe · Clerk · Google OAuth 2.0 · GitHub OAuth · JWT
  
 **Styling & UI:**
-Tailwind CSS / Radix UI / CSS / HTML
+Tailwind CSS / Radix UI / Framer Motion / CSS / HTML
  
 **Other Tools & Interests:**
-API Integration • Microservices Architecture • Event-Driven Systems • Modern Dev Workflows • ML/AI Pipelines
+API Integration • Microservices Architecture • Event-Driven Systems • Multi-Agent Systems • Modern Dev Workflows • ML/AI Pipelines
  
 ---
  
@@ -141,12 +170,14 @@ API Integration • Microservices Architecture • Event-Driven Systems • Mode
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
   <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
