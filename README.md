@@ -26,7 +26,7 @@
 <tr>
 <td width="100%">
  
-### [Life OS — AI Life Coach & Executive Function System](https://life-os-eta-hazel.vercel.app)
+### [Life OS — AI Life Coach & Executive Function System](https://life-os-eta-hazel.vercel.app) currently in development - down at the moment due to config upgrades 
  
 A multi-agent AI system that acts as your personal life coach. 12+ specialist agents learn your behavioral patterns and actively handle tasks you keep avoiding — drafting emails, building realistic daily plans based on your actual pace, generating documents, and collapsing overwhelming days into exactly 3 things.
 
