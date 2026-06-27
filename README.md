@@ -12,7 +12,7 @@
  
 ### About Me
  
--  Sophomore majoring in **Computer Science / Engineering**
+-  Majoring in **Computer Science / Engineering**
 -  Passionate about **Full-Stack Development** & **AI / Machine Learning**
 -  Currently working on projects that appeal to my interest and self improvement
 -  Building projects that **connect frontend + backend** seamlessly
