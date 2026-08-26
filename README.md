@@ -1,237 +1,365 @@
-<h1 align="center"> Hey there, I'm Sam</h1>
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHk0b2g0dGhocnlqcjJlNzF4Ymo0eHVlNHpqczQ0dnUzZmloNzhrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" width="130"/>
-</p>
-<p align="center">
-  <a href="https://github.com/samin1554">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1000&color=00F781&center=true&vCenter=true&width=440&lines=Computer+Science+Student;Full+Stack+Developer;Machine+Learning+Explorer;Lifelong+Learner+📘" alt="Typing Animation" />
-  </a>
-</p>
+<!-- ┌──────────────────────────────────────────────────────────────────────┐ -->
+<!-- │   samin1554 · profile readme                                         │ -->
+<!-- │   Concept: a curated exhibition, adapted for Sam.                    │ -->
+<!-- │   canvas #F8FAFC · cobalt #1E40AF · cerulean #2563EB                 │ -->
+<!-- │   sky #60A5FA · pale #DBEAFE · ochre #FBBF24                         │ -->
+<!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
----
+<div align="center">
 
-### About Me
+<!-- ░░ HERO — swap this for a custom-painted masthead if you have one; capsule-render used as a drop-in ░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:2563EB,100:60A5FA&height=200&section=header&text=Sayed%20Amin&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20Multi-Agent%20AI%20Systems&descAlignY=58&descSize=20" alt="Sayed Amin — Full-Stack Developer · Multi-Agent AI Builder" />
 
-* Majoring in **Computer Science / Engineering**
-* Passionate about **Full-Stack Development** & **AI / Machine Learning**
-* Currently working on projects that appeal to my interest and self improvement
-* Building projects that **connect frontend + backend** seamlessly
-* Fun fact: I learn best by building and breaking things 😄
+</div>
 
----
+<br/>
 
-## 🚀 Featured Projects
+> "I don't just ship features — I architect the systems underneath them."
+> Twelve agents, six microservices, one goal: turn a hard problem into something that just runs.
+>
+> *Build the system. Then get out of its way.*
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 01 — Identity
+
+```yaml
+name:        Sayed Amin
+handle:      samin1554  ·  github.com/samin1554
+title:       Full-Stack Developer / Multi-Agent AI Builder
+location:    San Bernardino, CA
+education:   B.S. Computer Science & Mathematics, UC San Bernardino (GPA 4.0, exp. 2027–2028)
+languages:   [Java, Python, TypeScript, JavaScript, C#, Go]
+domains:
+  - Multi-agent AI systems       # Life OS — 12-agent LangGraph orchestration
+  - Microservices architecture   # OpenBook — 6-service RAG platform
+  - Enterprise integration       # Murphy USA — C#/.NET, JD Edwards, AS400
+  - AI career tooling            # TechGenie — full-stack SaaS
+  - Applied research             # CV benchmarking, TikTok data pipelines
+strengths:
+  - Architect distributed systems end-to-end (microservices, event-driven, RAG).
+  - Orchestrate multi-agent LLM systems with real memory, not just prompts.
+  - Ship production tooling inside legacy enterprise stacks (JD Edwards, IBM i/AS400).
+  - Move fluidly between research code and shipped, deployed products.
+mantra:      "Strive not to be a success, but rather to be of value."
+```
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 02 — Arsenal
+
+<div align="center">
+
+[![langs](https://skillicons.dev/icons?i=java,python,ts,js,cs,go,html,css&theme=light&perline=8)](https://skillicons.dev)
+
+[![ai](https://skillicons.dev/icons?i=pytorch,tensorflow,sqlite,postgres,redis,docker,githubactions,vscode&theme=light&perline=8)](https://skillicons.dev)
+
+[![stack](https://skillicons.dev/icons?i=spring,fastapi,react,nextjs,flask,tailwind,vercel,railway&theme=light&perline=8)](https://skillicons.dev)
+
+</div>
+
+<br/>
+
+```mermaid
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#DBEAFE','primaryTextColor':'#1E293B','primaryBorderColor':'#1E40AF','lineColor':'#2563EB','tertiaryColor':'#F8FAFC','fontFamily':'Space Grotesk','fontSize':'15px'}}}%%
+graph LR
+    S((Sam)):::core
+    S --> AI[Multi-Agent AI]:::node
+    S --> M[Microservices]:::node
+    S --> E[Enterprise Systems]:::node
+    S --> R[Research]:::node
+    AI --> P1[Life OS]:::leaf
+    AI --> P2[TechGenie]:::leaf
+    M --> P3[OpenBook]:::leaf
+    M --> P4[European Soccer App]:::leaf
+    E --> P5[Murphy USA C#/.NET]:::leaf
+    E --> P6[JD Edwards Orchestrator]:::leaf
+    R --> P7[CV Benchmarking]:::leaf
+    R --> P8[TikTok Data Pipeline]:::leaf
+
+    classDef core fill:#1E40AF,stroke:#1E40AF,stroke-width:3px,color:#fff,font-weight:bold
+    classDef node fill:#DBEAFE,stroke:#2563EB,stroke-width:1.5px,color:#1E293B
+    classDef leaf fill:#F8FAFC,stroke:#60A5FA,stroke-width:1px,color:#1E40AF
+```
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+</div>
+
+## ▍ 03 — Signature Work
+
+<sub>One flagship, four companions.</sub>
+
+<br/>
+
+<!-- ╔══ FLAGSHIP — Life OS ══╗ -->
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1E40AF,2563EB,60A5FA&height=90&text=Life%20OS&fontSize=32&fontColor=F8FAFC&fontAlignY=60" />
+</div>
 
 <table>
 <tr>
-<td width="100%">
+<td valign="middle">
 
-### Life OS — AI Life Coach & Executive Function System
+### `01` &nbsp; Life OS &nbsp;·&nbsp; Multi-Agent AI Life Coach
 
-A multi-agent AI system that acts as your personal life coach. 12+ specialist agents learn your behavioral patterns and actively handle tasks you keep avoiding — drafting emails, building realistic daily plans based on your actual pace, generating documents, and collapsing overwhelming days into exactly 3 things.
+> A **12-agent LangGraph orchestration system** that acts as a personal life coach — learning behavioral patterns and actively handling the tasks you keep avoiding: drafting emails, building realistic daily plans, generating documents, and collapsing overwhelming days into exactly 3 things. Backed by ChromaDB semantic memory, Gmail OAuth, and BYOK support across 9 LLM providers.
 
-**Disclaimer:** Website is not up anymore due to VPC affordability issues.
+<sub>*Next.js · FastAPI · LangGraph · PostgreSQL · ChromaDB · Redis · Clerk — 2026*</sub>
+<br/><sub>Site no longer live due to VPC hosting costs — code available on request.</sub>
 
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6F00?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white"/>
-</p>
-
-**Key features:** Multi-Agent AI Coach · Gmail Integration · Task & Goal Management · Daily Check-ins · Pattern Learning · File Generation (DOCX, XLSX, PDF) · Chaos Triage · Weekly Reviews · Semantic Memory · 9 LLM Providers (BYOK)
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### TechGenie — AI-Powered Career Toolkit for Developers
-
-A newspaper-themed platform that helps developers land jobs faster. Analyze your GitHub profile across 7 dimensions, generate ATS-optimized resumes, craft tailored cover letters, identify skill gaps, optimize your LinkedIn, and browse real job listings — all powered by AI.
-
-**Disclaimer:** Website is not up anymore due to VPC affordability issues.
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Groq_AI-000000?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiPjx0ZXh0IHk9IjE4IiBmb250LXNpemU9IjE4Ij7wn6SFPC90ZXh0Pjwvc3ZnPg==&logoColor=white"/>
-</p>
-
-**Key features:** GitHub Profile Analysis · Resume Builder · Cover Letter Generator · Skill Gap Analysis · LinkedIn Optimizer · Job Board · Profile Comparison · Tech Editorials
-
-</td>
-</tr>
-<tr>
-<td width="100%">
-
-### [OpenBook — Open-Source NotebookLM Clone](https://github.com/samin1554/OpenBook)
-
-An AI-powered document analysis platform inspired by Google's NotebookLM. Upload documents, chat with them using RAG, and generate podcasts, mind maps, and slide decks — all from your content.
-
-**Built over 8 weeks** as a full-scale microservices system with 6 services, async event processing, AI pipelines, and Stripe payment integration.
-
-<p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
-</p>
-
-**Key features:** RAG Chat · Podcast Generation (67 TTS voices) · Mind Maps · Slide Decks · Google OAuth · Stripe Subscriptions
+<a href="https://github.com/samin1554/Life-os">
+  <img src="https://img.shields.io/badge/Enter%20the%20repo%20%E2%86%92-1E40AF?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
+</a>
 
 </td>
 </tr>
 </table>
 
----
+<br/>
 
-## Tech Stack Overview
+<!-- ╔══ COMPANIONS — 2×2 gallery ══╗ -->
 
-Here's a quick look at the technologies I've been using across my repositories:
+<table>
+<tr>
 
-| Repository                                                                                        | Main Languages                                            | Likely Stack                                              | Notes                                                                                                                              |
-| ------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | --------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------- |
-| **[Life-OS](https://github.com/samin1554/Life-os)**                                               | TypeScript, Python                                        | Next.js + FastAPI + PostgreSQL + Redis + ChromaDB         | AI life coach — multi-agent system, Gmail integration, semantic memory. Website is not up anymore due to VPC affordability issues. |
-| **[TechGenie](https://github.com/samin1554/TechGenie)**                                           | TypeScript, Python                                        | Next.js + FastAPI + PostgreSQL                            | AI career toolkit — GitHub analysis, resume builder, job board. Website is not up anymore due to VPC affordability issues.         |
-| **[OpenBook](https://github.com/samin1554/OpenBook)**                                             | Java, Python, TypeScript                                  | Spring Boot + FastAPI + React                             | Full-stack AI platform — microservices, RAG, TTS, Stripe billing.                                                                  |
-| **[European-Soccer-Web-App](https://github.com/samin1554/European-Soccer-Web-App)**               | TypeScript (50.7%), Java (40.7%), CSS, HTML               | TypeScript Frontend + Java Backend (Spring Boot)          | Full-stack app with frontend (React/Angular) and Java backend.                                                                     |
-| **[Habbit-tracking-backendFeature](https://github.com/samin1554/Habbit-tracking-backendFeature)** | Java (100%)                                               | Java Backend (Spring Boot / Jakarta EE)                   | Backend service only, no frontend components.                                                                                      |
-| **[chef-claude](https://github.com/samin1554/chef-claude)**                                       | JavaScript (65.9%), CSS (29.8%), HTML (4.3%)              | Frontend Web App                                          | Likely vanilla JS or React-based web UI.                                                                                           |
-| **[Sentimental-Analysis-webb-app](https://github.com/samin1554/Sentimental-Analysis-webb-app)**   | TypeScript (75%), CSS (20.8%), Java (3.2%), Python (1.8%) | TypeScript Frontend + Flask Backend + Spring Boot Backend | Web UI for sentiment analysis with a Python ML model served via Flask and Spring Boot in a microservice architecture.              |
-| **[Fitness-App](https://github.com/samin1554/Fitness-App)**                                       | Java (74.4%), JavaScript (22.3%), CSS, HTML               | Full Stack (Spring Boot + React)                          | Confirmed full stack fitness tracking app.                                                                                         |
-| **[tic-tac-toe](https://github.com/samin1554/tic-tac-toe)**                                       | JavaScript (62.8%), CSS (32.5%), HTML                     | Frontend Web Game                                         | Built with JavaScript, styled with CSS.                                                                                            |
-| **[Capstone-2-React](https://github.com/samin1554/Capstone-2-React)**                             | JavaScript (55%), CSS (32%), HTML (13%)                   | React Frontend                                            | Core React project with standard web stack.                                                                                        |
-| **[Tenzies-](https://github.com/samin1554/Tenzies-)**                                             | JavaScript (56.2%), CSS (34.7%), HTML (9.1%)              | Frontend Game                                             | Simple game built with React/JS.                                                                                                   |
+<td width="50%" valign="top">
 
----
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=70&text=OpenBook&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
 
-### 🔧 Aggregated Tech Stack
+#### `02` &nbsp; OpenBook &nbsp;·&nbsp; Open-Source NotebookLM Clone
 
-**Backend Languages & Frameworks:**
-Java (Spring Boot, REST APIs)
-Python (FastAPI, Flask, Django, ML/AI Models)
+A **6-service Java/Spring Boot microservices platform** for RAG-powered document Q&A, built over 8 weeks. pgvector + LLaMA 3.3 70B retrieval, event-driven RabbitMQ messaging, async podcast generation (67 TTS voices), mind maps, slide decks, and Stripe billing.
 
-**Frontend:**
-React / Next.js / TypeScript / JavaScript
+<sub>*Spring Boot · FastAPI · React · TypeScript · pgvector · RabbitMQ · Docker · Stripe — 2026*</sub>
 
-**AI & ML:**
-PyTorch · Sentence-Transformers · RAG Pipelines · LangGraph · ChromaDB · Groq API · pgvector
+<a href="https://github.com/samin1554/OpenBook">Enter the repo →</a>
 
-**Databases & Messaging:**
-PostgreSQL / MongoDB / Redis / RabbitMQ
+</td>
 
-**Infrastructure & DevOps:**
-Docker / Docker Compose / MinIO (S3) / Cloudflare R2 / Nginx / Railway / Vercel
+<td width="50%" valign="top">
 
-**Payments & Auth:**
-Stripe · Clerk · Google OAuth 2.0 · GitHub OAuth · JWT
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,20&height=70&text=TechGenie&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
 
-**Styling & UI:**
-Tailwind CSS / Radix UI / Framer Motion / CSS / HTML
+#### `03` &nbsp; TechGenie &nbsp;·&nbsp; AI Career Toolkit for Developers
 
-**Other Tools & Interests:**
-API Integration • Microservices Architecture • Event-Driven Systems • Multi-Agent Systems • Modern Dev Workflows • ML/AI Pipelines
+A full-stack SaaS platform deployed at techgenie.cc: GitHub profile analysis across 7 dimensions, ATS-optimized resume generation, cover letters, skill-gap analysis, LinkedIn optimization, and live job listings via the JSearch API (LinkedIn, Indeed, Glassdoor).
 
----
+<sub>*Next.js · FastAPI · PostgreSQL · OAuth2 · Stripe · Vercel · Railway — 2026*</sub>
 
-### 💻 Visual Tech Stack Badges
+<a href="https://github.com/samin1554/TechGenie">Enter the repo →</a>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-</p>
+</td>
 
----
+</tr>
+<tr>
 
-### 📈 GitHub Stats
+<td width="50%" valign="top">
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=radical&cache_seconds=3600"
-    height="170"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=compact&theme=radical&cache_seconds=3600"
-    height="170"
-    alt="Top languages"
-  />
-</p>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=70&text=European+Soccer+App&fontSize=20&fontColor=F8FAFC&fontAlignY=52" /></div>
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=samin1554&theme=radical"
-    height="180"
-    alt="GitHub streak stats"
-  />
-</p>
+#### `04` &nbsp; European Soccer Web App
 
-### My Contribution Graph
+A full-stack app pairing a TypeScript frontend with a Java/Spring Boot backend — league data, standings, and match browsing across a clean client/server split.
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg">
-    <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg" width="700">
-  </picture>
-</p>
+<sub>*TypeScript · Java · Spring Boot · HTML/CSS — 2026*</sub>
 
-*(This game auto-updates based on my latest commits)*
+<a href="https://github.com/samin1554/European-Soccer-Web-App">Enter the repo →</a>
 
----
+</td>
 
-### 🤝 Connect with Me
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="mailto:Samiul27a@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/samin1554"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,2&height=70&text=Fitness+App&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
 
----
+#### `05` &nbsp; Fitness App
 
- 
-<p align="center">
-  <i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i>
-</p>
+A confirmed full-stack fitness-tracking app: Spring Boot backend serving a React frontend for logging workouts and tracking progress over time.
+
+<sub>*Java · Spring Boot · React · JavaScript — 2026*</sub>
+
+<a href="https://github.com/samin1554/Fitness-App">Enter the repo →</a>
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/samin1554?tab=repositories">
+    <img src="https://img.shields.io/badge/Browse%20all%20repos%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+</div>
+
+## ▍ 04 — Experience
+
+<sub>Where the systems thinking gets stress-tested against real production constraints.</sub>
+
+<br/>
+
+<table>
+<tr>
+<td width="100%" valign="top">
+
+#### Software Engineering Intern &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Murphy%20USA-Fortune%20500-1E40AF?style=flat-square&labelColor=F8FAFC" /> &nbsp;·&nbsp; <sub>Jun–Jul 2026</sub>
+
+Built a **C# / .NET integration solution from scratch** to replace legacy SnapLogic pipelines for the Financial Systems team's invoice, PO, and transaction processing. Engineered validation queries against **IBM i (AS400) DB2** tables to surface incorrect POs across systems. Redesigned a **JD Edwards Orchestrator workflow** with custom sub-orchestrations, writing validation logic in **JRuby / Ruby on Rails** to catch corrupted and blank data. Built an **Azure DevOps CI/CD pipeline** in YAML that auto-generates bug tickets and triggers test runs on new commits.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+#### Undergraduate Research Assistant &nbsp;·&nbsp; <img src="https://img.shields.io/badge/Southern%20Arkansas%20University-2563EB?style=flat-square&labelColor=F8FAFC&color=2563EB" /> &nbsp;·&nbsp; <sub>2025–Spring 2026</sub>
+
+Ran comparative computer vision research benchmarking **VGG16, ViT, ChatGPT, and Claude** on a 4-class image classification task, evaluating models via IoU and accuracy.
+
+</td>
+</tr>
+<tr>
+<td width="100%" valign="top">
+
+#### Research Assistant &nbsp;·&nbsp; <img src="https://img.shields.io/badge/UH%20Cancer%20Center-60A5FA?style=flat-square&labelColor=F8FAFC&color=60A5FA" /> &nbsp;·&nbsp; <sub>May–Jul 2024</sub>
+
+Built Python pipelines to scrape and process **5,000+ TikTok posts** on oral nicotine products, with validation logic ensuring **99% data consistency** across heterogeneous sources.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+</div>
+
+## ▍ 05 — Open Source
+
+<sub>Fixes and features contributed to codebases beyond my own.</sub>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="33%" valign="top">
+
+#### Notte &nbsp;·&nbsp; <a href="https://github.com/nottelabs/notte">nottelabs/notte</a>
+
+Designed and implemented **prefix-based model validation** for LLM provider integration, addressing a maintainer-identified gap in the architecture.
+
+</td>
+
+<td width="33%" valign="top">
+
+#### Hermes Agent &nbsp;·&nbsp; <a href="https://github.com/NousResearch/hermes-agent">NousResearch/hermes-agent</a>
+
+Added a **semantic-scholar research skill** covering 9 API endpoint types, closing a documented gap next to the existing arxiv skill.
+
+</td>
+
+<td width="33%" valign="top">
+
+#### JavaScript Mastery Pro &nbsp;·&nbsp; <a href="https://github.com/JavaScript-Mastery-Pro">JavaScript-Mastery-Pro</a>
+
+Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promise unresolved in a POST handler. **Merged.**
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+</div>
+
+## ▍ 06 — Telemetry
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=samin1554&label=Profile%20views&color=1E40AF&style=flat-square" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=1E40AF&labelColor=F8FAFC&style=flat-square&logo=github&logoColor=1E40AF" />&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=2563EB&labelColor=F8FAFC&style=flat-square" />
+
+<br/><br/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=F8FAFC&title_color=1E40AF&icon_color=2563EB&text_color=1E293B&border_color=DBEAFE&cache_seconds=3600"
+  height="170"
+  alt="GitHub stats"
+/>
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=compact&theme=default&bg_color=F8FAFC&title_color=1E40AF&text_color=1E293B&border_color=DBEAFE&cache_seconds=3600"
+  height="170"
+  alt="Top languages"
+/>
+
+<br/><br/>
+
+<img width="68%" src="https://streak-stats.demolab.com?user=samin1554&theme=default&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg" width="700">
+</picture>
+
+<sub><i>(auto-updates from latest commits)</i></sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+</div>
+
+## ▍ 07 — Reach
+
+<div align="center">
+
+<a href="https://github.com/samin1554">
+  <img src="https://img.shields.io/badge/GitHub-F8FAFC?style=for-the-badge&logo=github&logoColor=1E40AF" />
+</a>
+<a href="mailto:Samiul27a@gmail.com">
+  <img src="https://img.shields.io/badge/Email-F8FAFC?style=for-the-badge&logo=gmail&logoColor=1E40AF" />
+</a>
+<a href="https://github.com/samin1554?tab=repositories">
+  <img src="https://img.shields.io/badge/All%20Repos-F8FAFC?style=for-the-badge&logo=github&logoColor=1E40AF" />
+</a>
+
+<br/><br/>
+
+<sub>Open to collaborate on multi-agent AI systems · full-stack SaaS · enterprise integrations. Email me directly.</sub>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:60A5FA,100:DBEAFE&height=120&section=footer&animation=fadeIn" />
+  <sub><i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i></sub>
+</div>
