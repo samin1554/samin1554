@@ -296,38 +296,74 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 ## ▍ 06 — Telemetry
 
+<sub>Live readouts, not static numbers — every widget below pulls fresh on each page load.</sub>
+
+<br/>
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=samin1554&label=Profile%20views&color=1E40AF&style=flat-square" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=1E40AF&labelColor=F8FAFC&style=flat-square&logo=github&logoColor=1E40AF" />&nbsp;
-<img src="https://img.shields.io/badge/dynamic/json?label=Public%20repos&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=2563EB&labelColor=F8FAFC&style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=samin1554&label=PROFILE%20VIEWS&color=1E40AF&style=for-the-badge&labelColor=F8FAFC" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=FOLLOWERS&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=1E40AF&labelColor=F8FAFC&style=for-the-badge&logo=github&logoColor=1E40AF" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?label=PUBLIC%20REPOS&query=public_repos&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsamin1554&color=2563EB&labelColor=F8FAFC&style=for-the-badge" />
 
-<br/><br/>
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center"><sub>▸ STATS AT A GLANCE</sub></div>
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=F8FAFC&title_color=1E40AF&icon_color=2563EB&text_color=1E293B&border_color=DBEAFE&cache_seconds=3600"
-  height="170"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=F8FAFC&title_color=1E40AF&icon_color=2563EB&text_color=1E293B&border_color=DBEAFE&hide_border=true&cache_seconds=3600"
   alt="GitHub stats"
 />
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center"><sub>▸ LANGUAGE MIX</sub></div>
+
 <img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=compact&theme=default&bg_color=F8FAFC&title_color=1E40AF&text_color=1E293B&border_color=DBEAFE&cache_seconds=3600"
-  height="170"
+  width="100%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=donut-vertical&theme=default&bg_color=F8FAFC&title_color=1E40AF&text_color=1E293B&border_color=DBEAFE&hide_border=true&cache_seconds=3600"
   alt="Top languages"
 />
 
-<br/><br/>
+</td>
+</tr>
+</table>
 
-<img width="68%" src="https://streak-stats.demolab.com?user=samin1554&theme=default&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
+<br/>
 
-<br/><br/>
+<div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg">
-  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg" width="700">
-</picture>
+<sub>▸ CURRENT STREAK</sub>
+<br/>
+<img width="75%" src="https://streak-stats.demolab.com?user=samin1554&theme=default&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
 
-<sub><i>(auto-updates from latest commits)</i></sub>
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>▸ CONTRIBUTION ACTIVITY</sub>
+<br/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=1E40AF" alt="activity graph" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<sub>▸ ACHIEVEMENTS</sub>
+<br/>
+<img src="https://github-profile-trophy.vercel.app/?username=samin1554&theme=flat&no-frame=true&no-bg=true&column=7&title=Commits,Stars,PullRequest,Repositories,Followers&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
