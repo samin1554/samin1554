@@ -14,9 +14,7 @@
 
 <br/>
 
-> "I don't just ship features — I architect the systems underneath them."
-> Twelve agents, six microservices, one goal: turn a hard problem into something that just runs.
->
+
 > *Build the system. Then get out of its way.*
 
 <br/>
