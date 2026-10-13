@@ -5,23 +5,42 @@
 <!-- │   sky #60A5FA · pale #DBEAFE · ochre #FBBF24                         │ -->
 <!-- └──────────────────────────────────────────────────────────────────────┘ -->
 
+<a id="top"></a>
+
 <div align="center">
 
-<!-- ░░ HERO — swap this for a custom-painted masthead if you have one; capsule-render used as a drop-in ░░ -->
+<!-- ░░ HERO ░░ -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1E40AF,50:2563EB,100:60A5FA&height=200&section=header&text=Sayed%20Amin&fontSize=56&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%2B%20Multi-Agent%20AI%20Systems&descAlignY=58&descSize=20" alt="Sayed Amin — Full-Stack Developer · Multi-Agent AI Builder" />
+
+<!-- ░░ TYPING LINE — what I build, one line at a time ░░ -->
+<a href="#work">
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Multi-agent+LLM+systems+with+real+memory;Microservices+%C2%B7+RAG+%C2%B7+event-driven+design;Geospatial+evidence+pipelines+on+satellite+data;Production+tooling+inside+legacy+enterprise+stacks" alt="Multi-agent LLM systems · Microservices · Geospatial pipelines · Enterprise tooling" />
+</a>
+
+<br/>
+
+<!-- ░░ START HERE — jump row ░░ -->
+<a href="#identity"><img src="https://img.shields.io/badge/01-Identity-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#arsenal"><img src="https://img.shields.io/badge/02-Arsenal-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#work"><img src="https://img.shields.io/badge/03-Work-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#experience"><img src="https://img.shields.io/badge/04-Experience-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#open-source"><img src="https://img.shields.io/badge/05-Open%20Source-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#telemetry"><img src="https://img.shields.io/badge/06-Telemetry-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
+<a href="#reach"><img src="https://img.shields.io/badge/07-Reach-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
 
 </div>
 
 <br/>
-
 
 > *Build the system. Then get out of its way.*
 
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=2" alt="" />
 </div>
+
+<a id="identity"></a>
 
 ## ▍ 01 — Identity
 
@@ -35,6 +54,7 @@ languages:   [Java, Python, TypeScript, JavaScript, C#, Go]
 domains:
   - Multi-agent AI systems       # Life OS — 12-agent LangGraph orchestration
   - Microservices architecture   # OpenBook — 6-service RAG platform
+  - Geospatial analysis          # Inland Resilience — Sentinel-2 + PostGIS evidence pipeline
   - Enterprise integration       # Murphy USA — C#/.NET, JD Edwards, AS400
   - AI career tooling            # TechGenie — full-stack SaaS
   - Applied research             # CV benchmarking, TikTok data pipelines
@@ -46,11 +66,13 @@ strengths:
 mantra:      "Strive not to be a success, but rather to be of value."
 ```
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=2" alt="" />
 </div>
+
+<a id="arsenal"></a>
 
 ## ▍ 02 — Arsenal
 
@@ -67,43 +89,47 @@ mantra:      "Strive not to be a success, but rather to be of value."
 <br/>
 
 ```mermaid
-%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#DBEAFE','primaryTextColor':'#1E293B','primaryBorderColor':'#1E40AF','lineColor':'#2563EB','tertiaryColor':'#F8FAFC','fontFamily':'Space Grotesk','fontSize':'15px'}}}%%
+%%{init: {'theme':'base', 'themeVariables': {'primaryColor':'#DBEAFE','primaryTextColor':'#1E293B','primaryBorderColor':'#1E40AF','lineColor':'#2563EB','tertiaryColor':'#F8FAFC','fontSize':'15px'}}}%%
 graph LR
     S((Sam)):::core
-    S --> AI[Multi-Agent AI]:::node
-    S --> M[Microservices]:::node
-    S --> E[Enterprise Systems]:::node
-    S --> R[Research]:::node
+    S --> AI[Multi-Agent AI]:::branch
+    S --> M[Microservices]:::branch
+    S --> G[Geospatial]:::branch
+    S --> E[Enterprise Systems]:::branch
+    S --> R[Research]:::branch
     AI --> P1[Life OS]:::leaf
     AI --> P2[TechGenie]:::leaf
     M --> P3[OpenBook]:::leaf
     M --> P4[European Soccer App]:::leaf
+    G --> P9[Inland Resilience]:::leaf
     E --> P5[Murphy USA C#/.NET]:::leaf
     E --> P6[JD Edwards Orchestrator]:::leaf
     R --> P7[CV Benchmarking]:::leaf
     R --> P8[TikTok Data Pipeline]:::leaf
 
     classDef core fill:#1E40AF,stroke:#1E40AF,stroke-width:3px,color:#fff,font-weight:bold
-    classDef node fill:#DBEAFE,stroke:#2563EB,stroke-width:1.5px,color:#1E293B
+    classDef branch fill:#DBEAFE,stroke:#2563EB,stroke-width:1.5px,color:#1E293B
     classDef leaf fill:#F8FAFC,stroke:#60A5FA,stroke-width:1px,color:#1E40AF
 ```
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=3" alt="" />
 </div>
+
+<a id="work"></a>
 
 ## ▍ 03 — Signature Work
 
-<sub>One flagship, four companions.</sub>
+<sub>One flagship, five companions.</sub>
 
 <br/>
 
 <!-- ╔══ FLAGSHIP — Life OS ══╗ -->
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=1E40AF,2563EB,60A5FA&height=90&text=Life%20OS&fontSize=32&fontColor=F8FAFC&fontAlignY=60" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=90&text=Life%20OS&fontSize=32&fontColor=F8FAFC&fontAlignY=60" alt="Life OS" />
 </div>
 
 <table>
@@ -111,6 +137,11 @@ graph LR
 <td valign="middle">
 
 ### `01` &nbsp; Life OS &nbsp;·&nbsp; Multi-Agent AI Life Coach
+
+<!-- ░░ SHOW IT WORKING — the site is offline, so a 10–20 s screen recording is the next best thing.
+     Record the "overwhelming day → 3 things" flow, save as assets/life-os.gif in this repo, then uncomment:
+<p align="center"><img width="100%" src="assets/life-os.gif" alt="Life OS collapsing a crowded day into three tasks" /></p>
+-->
 
 > A **12-agent LangGraph orchestration system** that acts as a personal life coach — learning behavioral patterns and actively handling the tasks you keep avoiding: drafting emails, building realistic daily plans, generating documents, and collapsing overwhelming days into exactly 3 things. Backed by ChromaDB semantic memory, Gmail OAuth, and BYOK support across 9 LLM providers.
 
@@ -127,16 +158,30 @@ graph LR
 
 <br/>
 
-<!-- ╔══ COMPANIONS — 2×2 gallery ══╗ -->
+<!-- ╔══ COMPANIONS — 2×3 gallery ══╗ -->
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,12&height=70&text=OpenBook&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:2563EB&height=70&text=Inland%20Resilience&fontSize=22&fontColor=F8FAFC&fontAlignY=52" alt="Inland Resilience" /></div>
 
-#### `02` &nbsp; OpenBook &nbsp;·&nbsp; Open-Source NotebookLM Clone
+#### `02` &nbsp; Inland Resilience &nbsp;·&nbsp; Geospatial Evidence Agent
+
+Draw an area, ask a question, get an **evidence-backed answer**: Sentinel-2 dNBR/NDVI burn severity, official fire perimeters, NASA FIRMS heat detections and NWS alerts — each fact with its source, observed time and limitations. Go API + Python LangGraph worker over Redis Streams, streamed to a MapLibre UI via SSE. A research tool, not an emergency service.
+
+<sub>*Go · Python · LangGraph · React · MapLibre · PostGIS · Redis Streams · Docker — 2026*</sub>
+
+<a href="https://github.com/samin1554/inland-resilience">Enter the repo →</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:60A5FA&height=70&text=OpenBook&fontSize=24&fontColor=F8FAFC&fontAlignY=52" alt="OpenBook" /></div>
+
+#### `03` &nbsp; OpenBook &nbsp;·&nbsp; Open-Source NotebookLM Clone
 
 A **6-service Java/Spring Boot microservices platform** for RAG-powered document Q&A, built over 8 weeks. pgvector + LLaMA 3.3 70B retrieval, event-driven RabbitMQ messaging, async podcast generation (67 TTS voices), mind maps, slide decks, and Stripe billing.
 
@@ -146,11 +191,14 @@ A **6-service Java/Spring Boot microservices platform** for RAG-powered document
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=8,20&height=70&text=TechGenie&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:60A5FA&height=70&text=TechGenie&fontSize=24&fontColor=F8FAFC&fontAlignY=52" alt="TechGenie" /></div>
 
-#### `03` &nbsp; TechGenie &nbsp;·&nbsp; AI Career Toolkit for Developers
+#### `04` &nbsp; TechGenie &nbsp;·&nbsp; AI Career Toolkit for Developers
 
 A full-stack SaaS platform deployed at techgenie.cc: GitHub profile analysis across 7 dimensions, ATS-optimized resume generation, cover letters, skill-gap analysis, LinkedIn optimization, and live job listings via the JSearch API (LinkedIn, Indeed, Glassdoor).
 
@@ -160,14 +208,11 @@ A full-stack SaaS platform deployed at techgenie.cc: GitHub profile analysis acr
 
 </td>
 
-</tr>
-<tr>
-
 <td width="50%" valign="top">
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,24&height=70&text=European+Soccer+App&fontSize=20&fontColor=F8FAFC&fontAlignY=52" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2563EB,100:1E40AF&height=70&text=European%20Soccer%20App&fontSize=20&fontColor=F8FAFC&fontAlignY=52" alt="European Soccer App" /></div>
 
-#### `04` &nbsp; European Soccer Web App
+#### `05` &nbsp; European Soccer Web App
 
 A full-stack app pairing a TypeScript frontend with a Java/Spring Boot backend — league data, standings, and match browsing across a clean client/server split.
 
@@ -177,13 +222,16 @@ A full-stack app pairing a TypeScript frontend with a Java/Spring Boot backend �
 
 </td>
 
+</tr>
+<tr>
+
 <td width="50%" valign="top">
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,2&height=70&text=Fitness+App&fontSize=24&fontColor=F8FAFC&fontAlignY=52" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:60A5FA,100:1E40AF&height=70&text=Fitness%20App&fontSize=24&fontColor=F8FAFC&fontAlignY=52" alt="Fitness App" /></div>
 
-#### `05` &nbsp; Fitness App
+#### `06` &nbsp; Fitness App
 
-A confirmed full-stack fitness-tracking app: Spring Boot backend serving a React frontend for logging workouts and tracking progress over time.
+A full-stack fitness-tracking app: Spring Boot backend serving a React frontend for logging workouts and tracking progress over time.
 
 <sub>*Java · Spring Boot · React · JavaScript — 2026*</sub>
 
@@ -191,22 +239,24 @@ A confirmed full-stack fitness-tracking app: Spring Boot backend serving a React
 
 </td>
 
+<td width="50%" valign="middle" align="center">
+
+<a href="https://github.com/samin1554?tab=repositories">
+  <img src="https://img.shields.io/badge/Browse%20all%20repos%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
+</a>
+
+</td>
+
 </tr>
 </table>
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <a href="https://github.com/samin1554?tab=repositories">
-    <img src="https://img.shields.io/badge/Browse%20all%20repos%20%E2%86%92-F8FAFC?style=for-the-badge&labelColor=F8FAFC&color=1E40AF" />
-  </a>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=3" alt="" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
-</div>
+<a id="experience"></a>
 
 ## ▍ 04 — Experience
 
@@ -244,11 +294,13 @@ Built Python pipelines to scrape and process **5,000+ TikTok posts** on oral nic
 </tr>
 </table>
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=3" alt="" />
 </div>
+
+<a id="open-source"></a>
 
 ## ▍ 05 — Open Source
 
@@ -286,11 +338,13 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 </tr>
 </table>
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=3" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=3" alt="" />
 </div>
+
+<a id="telemetry"></a>
 
 ## ▍ 06 — Telemetry
 
@@ -308,28 +362,28 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <br/>
 
+<!-- Each card has a dark variant so it doesn't glow white in GitHub dark mode. -->
+
 <table>
 <tr>
 <td width="50%" valign="top">
 
 <div align="center"><sub>▸ STATS AT A GLANCE</sub></div>
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&count_private=true&theme=default&bg_color=F8FAFC&title_color=1E40AF&icon_color=2563EB&text_color=1E293B&border_color=DBEAFE&hide_border=true&cache_seconds=3600"
-  alt="GitHub stats"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=60A5FA&icon_color=60A5FA&text_color=C9D1D9&hide_border=true&cache_seconds=3600" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api?username=samin1554&show_icons=true&include_all_commits=true&bg_color=F8FAFC&title_color=1E40AF&icon_color=2563EB&text_color=1E293B&hide_border=true&cache_seconds=3600" alt="GitHub stats" />
+</picture>
 
 </td>
 <td width="50%" valign="top">
 
 <div align="center"><sub>▸ LANGUAGE MIX</sub></div>
 
-<img
-  width="100%"
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=donut-vertical&theme=default&bg_color=F8FAFC&title_color=1E40AF&text_color=1E293B&border_color=DBEAFE&hide_border=true&cache_seconds=3600"
-  alt="Top languages"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=donut-vertical&bg_color=0D1117&title_color=60A5FA&text_color=C9D1D9&hide_border=true&cache_seconds=3600" />
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin1554&layout=donut-vertical&bg_color=F8FAFC&title_color=1E40AF&text_color=1E293B&hide_border=true&cache_seconds=3600" alt="Top languages" />
+</picture>
 
 </td>
 </tr>
@@ -341,7 +395,10 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <sub>▸ CURRENT STREAK</sub>
 <br/>
-<img width="75%" src="https://streak-stats.demolab.com?user=samin1554&theme=default&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=samin1554&hide_border=true&background=0D1117&ring=60A5FA&fire=FBBF24&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=8B949E&sideNums=C9D1D9&currStreakNum=FBBF24&stroke=30363D" />
+  <img width="75%" src="https://streak-stats.demolab.com?user=samin1554&hide_border=true&background=F8FAFC&ring=1E40AF&fire=FBBF24&currStreakLabel=1E40AF&sideLabels=1E40AF&dates=2563EB&sideNums=1E40AF&currStreakNum=FBBF24&stroke=DBEAFE" alt="streak" />
+</picture>
 
 </div>
 
@@ -351,7 +408,10 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <sub>▸ CONTRIBUTION ACTIVITY</sub>
 <br/>
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=1E40AF" alt="activity graph" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=0D1117&color=60A5FA&line=2563EB&point=FBBF24&area_color=1E40AF&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=60A5FA" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=1E40AF" alt="activity graph" />
+</picture>
 
 </div>
 
@@ -365,11 +425,13 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 </div>
 
-<br/>
+<div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=2,8,12,20,24&height=2" alt="" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,50:2563EB,100:60A5FA&height=2" alt="" />
 </div>
+
+<a id="reach"></a>
 
 ## ▍ 07 — Reach
 
@@ -394,6 +456,6 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 <br/>
 
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:60A5FA,100:DBEAFE&height=120&section=footer&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8FAFC,50:60A5FA,100:DBEAFE&height=120&section=footer&animation=fadeIn" alt="" />
   <sub><i>"Strive not to be a success, but rather to be of value." – Albert Einstein</i></sub>
 </div>
