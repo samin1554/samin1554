@@ -17,7 +17,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&duration=3200&pause=900&color=2563EB&center=true&vCenter=true&width=640&lines=Multi-agent+LLM+systems+with+real+memory;Microservices+%C2%B7+RAG+%C2%B7+event-driven+design;Geospatial+evidence+pipelines+on+satellite+data;Production+tooling+inside+legacy+enterprise+stacks" alt="Multi-agent LLM systems · Microservices · Geospatial pipelines · Enterprise tooling" />
 </a>
 
-<br/>
+<img width="100%" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5" alt="" />
 
 <!-- ░░ START HERE — jump row ░░ -->
 <a href="#identity"><img src="https://img.shields.io/badge/01-Identity-1E40AF?style=flat-square&labelColor=DBEAFE" /></a>
@@ -42,7 +42,11 @@
 
 <a id="identity"></a>
 
-## ▍ 01 — Identity
+## <img src="https://user-images.githubusercontent.com/74038190/216122003-1c7d9078-357a-47f5-81c7-1c4f2552e143.png" width="30" alt="" /> 01 — Identity
+
+<table>
+<tr>
+<td width="62%" valign="top">
 
 ```yaml
 name:        Sayed Amin
@@ -66,6 +70,13 @@ strengths:
 mantra:      "Strive not to be a success, but rather to be of value."
 ```
 
+</td>
+<td width="38%" valign="middle" align="center">
+  <img width="100%" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" alt="" />
+</td>
+</tr>
+</table>
+
 <div align="right"><sub><a href="#top">↑ back to top</a></sub></div>
 
 <div align="center">
@@ -74,7 +85,7 @@ mantra:      "Strive not to be a success, but rather to be of value."
 
 <a id="arsenal"></a>
 
-## ▍ 02 — Arsenal
+## <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="34" alt="" /> 02 — Arsenal
 
 <div align="center">
 
@@ -120,7 +131,7 @@ graph LR
 
 <a id="work"></a>
 
-## ▍ 03 — Signature Work
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="30" alt="" /> 03 — Signature Work
 
 <sub>One flagship, five companions.</sub>
 
@@ -258,7 +269,7 @@ A full-stack fitness-tracking app: Spring Boot backend serving a React frontend 
 
 <a id="experience"></a>
 
-## ▍ 04 — Experience
+## <img src="https://user-images.githubusercontent.com/74038190/216122028-c05b52fb-983e-4ee8-8811-6f30cd9ea5d5.png" width="30" alt="" /> 04 — Experience
 
 <sub>Where the systems thinking gets stress-tested against real production constraints.</sub>
 
@@ -302,7 +313,7 @@ Built Python pipelines to scrape and process **5,000+ TikTok posts** on oral nic
 
 <a id="open-source"></a>
 
-## ▍ 05 — Open Source
+## <img src="https://user-images.githubusercontent.com/74038190/212284068-b4ee9a5c-331c-4d18-9481-53dd6b9debd5.gif" width="34" alt="" /> 05 — Open Source
 
 <sub>Fixes and features contributed to codebases beyond my own.</sub>
 
@@ -346,7 +357,7 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <a id="telemetry"></a>
 
-## ▍ 06 — Telemetry
+## <img src="https://user-images.githubusercontent.com/74038190/216122049-276bc7a5-c760-4849-805a-995d8fa6ea13.png" width="30" alt="" /> 06 — Telemetry
 
 <sub>Live readouts, not static numbers — every widget below pulls fresh on each page load.</sub>
 
@@ -393,7 +404,7 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <div align="center">
 
-<sub>▸ CURRENT STREAK</sub>
+<sub><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="18" alt="" /> CURRENT STREAK</sub>
 <br/>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=samin1554&hide_border=true&background=0D1117&ring=60A5FA&fire=FBBF24&currStreakLabel=60A5FA&sideLabels=60A5FA&dates=8B949E&sideNums=C9D1D9&currStreakNum=FBBF24&stroke=30363D" />
@@ -406,12 +417,15 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <div align="center">
 
-<sub>▸ CONTRIBUTION ACTIVITY</sub>
+<sub>▸ CONTRIBUTION PULSE</sub>
 <br/>
+<!-- Pac-Man is drawn by .github/workflows/main.yml in this repo and pushed to the `output` branch. -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=0D1117&color=60A5FA&line=2563EB&point=FBBF24&area_color=1E40AF&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=60A5FA" />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=samin1554&bg_color=F8FAFC&color=1E40AF&line=2563EB&point=FBBF24&area_color=DBEAFE&area=true&hide_border=true&custom_title=Contribution%20Pulse&title_color=1E40AF" alt="activity graph" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph-dark.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/samin1554/samin1554/output/pacman-contribution-graph.svg" alt="Pac-Man eating my contribution graph" />
 </picture>
+<br/><br/>
+<img width="100%" src="https://ghchart.rshah.org/2563EB/samin1554" alt="contribution calendar" />
 
 </div>
 
@@ -421,7 +435,7 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <sub>▸ ACHIEVEMENTS</sub>
 <br/>
-<img src="https://github-profile-trophy.vercel.app/?username=samin1554&theme=flat&no-frame=true&no-bg=true&column=7&title=Commits,Stars,PullRequest,Repositories,Followers&margin-w=8&margin-h=8" alt="trophies" />
+<img src="https://github-trophies.vercel.app/?username=samin1554&theme=flat&no-frame=true&no-bg=true&column=7&title=Commits,Stars,PullRequest,Repositories,Followers&margin-w=8&margin-h=8" alt="trophies" />
 
 </div>
 
@@ -433,7 +447,7 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 
 <a id="reach"></a>
 
-## ▍ 07 — Reach
+## <img src="https://user-images.githubusercontent.com/74038190/216122065-2f028bae-25d6-4a3c-bc9f-175394ed5011.png" width="30" alt="" /> 07 — Reach
 
 <div align="center">
 
@@ -450,6 +464,11 @@ Fixed a missing `await` on a Mongoose `findOneAndUpdate` call that left a Promis
 <br/><br/>
 
 <sub>Open to collaborate on multi-agent AI systems · full-stack SaaS · enterprise integrations. Email me directly.</sub>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="260" alt="" />
+<img src="https://user-images.githubusercontent.com/74038190/216649426-0c2ee152-84d8-4707-85c4-27a378d2f78a.gif" width="140" alt="" />
 
 </div>
 
