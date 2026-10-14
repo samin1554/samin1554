@@ -58,7 +58,7 @@ languages:   [Java, Python, TypeScript, JavaScript, C#, Go]
 domains:
   - Multi-agent AI systems       # Life OS — 12-agent LangGraph orchestration
   - Microservices architecture   # OpenBook — 6-service RAG platform
-  - Geospatial analysis          # Inland Resilience — Sentinel-2 + PostGIS evidence pipeline
+  - Geospatial analysis          # Wildfire Evidence Agent — Sentinel-2 + PostGIS evidence pipeline
   - Enterprise integration       # Murphy USA — C#/.NET, JD Edwards, AS400
   - AI career tooling            # TechGenie — full-stack SaaS
   - Applied research             # CV benchmarking, TikTok data pipelines
@@ -112,7 +112,7 @@ graph LR
     AI --> P2[TechGenie]:::leaf
     M --> P3[OpenBook]:::leaf
     M --> P4[European Soccer App]:::leaf
-    G --> P9[Inland Resilience]:::leaf
+    G --> P9[Wildfire Evidence Agent]:::leaf
     E --> P5[Murphy USA C#/.NET]:::leaf
     E --> P6[JD Edwards Orchestrator]:::leaf
     R --> P7[CV Benchmarking]:::leaf
@@ -176,11 +176,13 @@ graph LR
 
 <td width="50%" valign="top">
 
-<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:2563EB&height=70&text=Inland%20Resilience&fontSize=22&fontColor=F8FAFC&fontAlignY=52" alt="Inland Resilience" /></div>
+<div align="center"><img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:1E40AF,100:2563EB&height=70&text=Wildfire%20Evidence%20Agent&fontSize=22&fontColor=F8FAFC&fontAlignY=52" alt="Wildfire Evidence Agent" /></div>
 
-#### `02` &nbsp; Inland Resilience &nbsp;·&nbsp; Geospatial Evidence Agent
+#### `02` &nbsp; Wildfire Evidence Agent &nbsp;·&nbsp; Satellite + Official-Source Analysis
 
-Draw an area, ask a question, get an **evidence-backed answer**: Sentinel-2 dNBR/NDVI burn severity, official fire perimeters, NASA FIRMS heat detections and NWS alerts — each fact with its source, observed time and limitations. Go API + Python LangGraph worker over Redis Streams, streamed to a MapLibre UI via SSE. A research tool, not an emergency service.
+<a href="https://github.com/samin1554/wildfire-evidence-agent"><img width="100%" src="https://raw.githubusercontent.com/samin1554/wildfire-evidence-agent/main/docs/images/demo.gif" alt="Line Fire 2024 analysis: progress, burn-severity overlay, cited report" /></a>
+
+Built solo, end to end. Draw an area, ask a question, get an **evidence-backed answer**: Sentinel-2 dNBR/NDVI burn severity, official fire perimeters, NASA FIRMS heat detections and NWS alerts — each fact with its source, observed time and limitations. Go API + Python LangGraph worker over Redis Streams, streamed to a MapLibre UI via SSE. A research tool, not an emergency service.
 
 <sub>*Go · Python · LangGraph · React · MapLibre · PostGIS · Redis Streams · Docker — 2026*</sub>
 
