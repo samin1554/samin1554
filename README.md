@@ -184,7 +184,7 @@ Draw an area, ask a question, get an **evidence-backed answer**: Sentinel-2 dNBR
 
 <sub>*Go · Python · LangGraph · React · MapLibre · PostGIS · Redis Streams · Docker — 2026*</sub>
 
-<a href="https://github.com/samin1554/inland-resilience">Enter the repo →</a>
+<a href="https://github.com/samin1554/wildfire-evidence-agent">Enter the repo →</a>
 
 </td>
 
